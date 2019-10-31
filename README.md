@@ -103,5 +103,5 @@ __Boot:__
 [r/hackintosh](https://www.reddit.com/r/hackintosh/)   
 [Hackintosher](https://hackintosher.com/)
 
-See also[Insanely mac] (https://www.insanelymac.com/forum/topic/337627-guide-asus-tuf-z390m-pro-gaming-i9-9900k-uhd-630/)
+See also [Insanely mac] (https://www.insanelymac.com/forum/topic/337627-guide-asus-tuf-z390m-pro-gaming-i9-9900k-uhd-630/)
 
